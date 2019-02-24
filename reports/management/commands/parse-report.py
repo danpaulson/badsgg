@@ -18,6 +18,10 @@ class Command(BaseCommand):
             # Add Fight Time
             fights[fight['id']]['time'] = fight['end_time'] - fight['start_time']
 
+        '''
+        TODO: Generate Participation tables from fights for accurate survivability caps
+        '''
+
         # Get Deaths
         death_url = 'https://www.warcraftlogs.com/v1/report/tables/deaths/4YZfF6aPBdXL7R1c?api_key=77c5448016dc5ecf47a9a231d338ba1d&end=8509056&cutoff=4'
         response = requests.get(death_url)
