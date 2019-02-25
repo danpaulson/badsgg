@@ -1,0 +1,5356 @@
+{
+    "fights": [
+        {
+            "id": 1,
+            "start_time": 139412,
+            "end_time": 232304,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8218,
+            "fightPercentage": 8218,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 2,
+            "start_time": 435188,
+            "end_time": 571402,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7119,
+            "fightPercentage": 7119,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 3,
+            "start_time": 757368,
+            "end_time": 861892,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7896,
+            "fightPercentage": 7896,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 4,
+            "start_time": 1002793,
+            "end_time": 1113527,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7709,
+            "fightPercentage": 7709,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 5,
+            "start_time": 1190933,
+            "end_time": 1364170,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 6066,
+            "fightPercentage": 6066,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 6,
+            "start_time": 1544651,
+            "end_time": 1701783,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 6089,
+            "fightPercentage": 6089,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 7,
+            "start_time": 1838538,
+            "end_time": 2030678,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 5233,
+            "fightPercentage": 5233,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 8,
+            "start_time": 2143447,
+            "end_time": 2213456,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8671,
+            "fightPercentage": 8671,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 9,
+            "start_time": 2281682,
+            "end_time": 2582572,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 2215,
+            "fightPercentage": 2215,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 10,
+            "start_time": 2827804,
+            "end_time": 3059120,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 4599,
+            "fightPercentage": 4599,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 11,
+            "start_time": 3620550,
+            "end_time": 3702431,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8996,
+            "fightPercentage": 8996,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 12,
+            "start_time": 3785250,
+            "end_time": 3877398,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8786,
+            "fightPercentage": 8786,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 13,
+            "start_time": 4018373,
+            "end_time": 4143530,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7447,
+            "fightPercentage": 7447,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 14,
+            "start_time": 4250281,
+            "end_time": 4459347,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 4966,
+            "fightPercentage": 4966,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 15,
+            "start_time": 4540168,
+            "end_time": 4614153,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8945,
+            "fightPercentage": 8945,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 16,
+            "start_time": 4717479,
+            "end_time": 4806329,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 8092,
+            "fightPercentage": 8092,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 17,
+            "start_time": 4905792,
+            "end_time": 4971329,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 9043,
+            "fightPercentage": 9043,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 18,
+            "start_time": 5066286,
+            "end_time": 5189284,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7396,
+            "fightPercentage": 7396,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 19,
+            "start_time": 5326919,
+            "end_time": 5464013,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 6483,
+            "fightPercentage": 6483,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 20,
+            "start_time": 5567088,
+            "end_time": 5804475,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 3353,
+            "fightPercentage": 3353,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 21,
+            "start_time": 5936033,
+            "end_time": 6033647,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7970,
+            "fightPercentage": 7970,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 22,
+            "start_time": 6118373,
+            "end_time": 6323163,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 4867,
+            "fightPercentage": 4867,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 23,
+            "start_time": 6484850,
+            "end_time": 6629180,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 6130,
+            "fightPercentage": 6130,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 24,
+            "start_time": 6719603,
+            "end_time": 6967719,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 3269,
+            "fightPercentage": 3269,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 25,
+            "start_time": 7073259,
+            "end_time": 7398385,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 2117,
+            "fightPercentage": 2117,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 26,
+            "start_time": 7510831,
+            "end_time": 7762812,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 2772,
+            "fightPercentage": 2772,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 27,
+            "start_time": 7851891,
+            "end_time": 7945635,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 7828,
+            "fightPercentage": 7828,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 28,
+            "start_time": 8050964,
+            "end_time": 8190020,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 6416,
+            "fightPercentage": 6416,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 29,
+            "start_time": 8295728,
+            "end_time": 8509056,
+            "boss": 2263,
+            "name": "Grong",
+            "size": 20,
+            "difficulty": 5,
+            "kill": false,
+            "partial": 3,
+            "bossPercentage": 5034,
+            "fightPercentage": 5034,
+            "lastPhaseForPercentageDisplay": 0
+        },
+        {
+            "id": 30,
+            "start_time": 8563831,
+            "end_time": 8563884,
+            "boss": 0,
+            "name": "Temple Beetle"
+        }
+    ],
+    "lang": "en",
+    "friendlies": [
+        {
+            "name": "Ellach",
+            "id": 3,
+            "guid": 163197584,
+            "type": "Paladin",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Blinging",
+            "id": 17,
+            "guid": 168264160,
+            "type": "Druid",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Stramok",
+            "id": 14,
+            "guid": 149336821,
+            "type": "Monk",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Needsahug",
+            "id": 16,
+            "guid": 168922809,
+            "type": "DemonHunter",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Gurbzy",
+            "id": 23,
+            "guid": 154729797,
+            "type": "Warlock",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Sepia",
+            "id": 18,
+            "guid": 163872889,
+            "type": "Priest",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Ab\u00ffssal",
+            "id": 12,
+            "guid": 162419267,
+            "type": "DeathKnight",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Woliaroo",
+            "id": 6,
+            "guid": 129599545,
+            "type": "Shaman",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Kervoros",
+            "id": 8,
+            "guid": 160585564,
+            "type": "DeathKnight",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Beermuscles",
+            "id": 10,
+            "guid": 168486306,
+            "type": "DeathKnight",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Notchy",
+            "id": 4,
+            "guid": 160576032,
+            "type": "Paladin",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Booshae",
+            "id": 1,
+            "guid": 152991661,
+            "type": "DemonHunter",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                }
+            ]
+        },
+        {
+            "name": "Wek",
+            "id": 15,
+            "guid": 38819062,
+            "type": "Shaman",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Bladeguard Kaja",
+            "id": 48,
+            "guid": 147370,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 2,
+                    "instances": 1,
+                    "groups": 3
+                },
+                {
+                    "id": 7,
+                    "instances": 1,
+                    "groups": 4
+                },
+                {
+                    "id": 10,
+                    "instances": 1,
+                    "groups": 4
+                },
+                {
+                    "id": 17,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1,
+                    "groups": 2
+                },
+                {
+                    "id": 21,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1,
+                    "groups": 4
+                },
+                {
+                    "id": 23,
+                    "instances": 1,
+                    "groups": 3
+                },
+                {
+                    "id": 24,
+                    "instances": 1,
+                    "groups": 4
+                },
+                {
+                    "id": 26,
+                    "instances": 1,
+                    "groups": 4
+                }
+            ]
+        },
+        {
+            "name": "Aiglos",
+            "id": 5,
+            "guid": 72387869,
+            "type": "Druid",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Tiggy",
+            "id": 19,
+            "guid": 169451490,
+            "type": "Monk",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Tuxedosam",
+            "id": 7,
+            "guid": 160670066,
+            "type": "DeathKnight",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Daddydave",
+            "id": 9,
+            "guid": 4958829,
+            "type": "Mage",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Smallfeet",
+            "id": 11,
+            "guid": 161619897,
+            "type": "Druid",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Seps",
+            "id": 2,
+            "guid": 168488275,
+            "type": "Hunter",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Isodots",
+            "id": 13,
+            "guid": 170593341,
+            "type": "Warlock",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "Zandalari Warrior",
+            "id": 79,
+            "guid": 147601,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 30,
+                    "instances": 1
+                }
+            ]
+        }
+    ],
+    "enemies": [
+        {
+            "name": "7th Legion Marine",
+            "id": 76,
+            "guid": 147967,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 23,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Apetagonizer 3000",
+            "id": 43,
+            "guid": 144876,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 2
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 3
+                },
+                {
+                    "id": 10,
+                    "instances": 2
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 2
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 2
+                },
+                {
+                    "id": 25,
+                    "instances": 3
+                },
+                {
+                    "id": 26,
+                    "instances": 2
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Temple Beetle",
+            "id": 33,
+            "guid": 130441,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 30,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Apetagonizer 3000",
+            "id": 44,
+            "guid": 149611,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 2
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 3
+                },
+                {
+                    "id": 10,
+                    "instances": 2
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 2
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 2
+                },
+                {
+                    "id": 25,
+                    "instances": 3
+                },
+                {
+                    "id": 26,
+                    "instances": 2
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Grong",
+            "id": 29,
+            "guid": 144637,
+            "type": "Boss",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Flying Ape Wranglers",
+            "id": 42,
+            "guid": 144853,
+            "type": "NPC",
+            "abilityIcon": "nil",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 2,
+                    "groups": 3
+                },
+                {
+                    "id": 2,
+                    "instances": 3,
+                    "groups": 5
+                },
+                {
+                    "id": 3,
+                    "instances": 2,
+                    "groups": 3
+                },
+                {
+                    "id": 4,
+                    "instances": 3,
+                    "groups": 4
+                },
+                {
+                    "id": 5,
+                    "instances": 4,
+                    "groups": 7
+                },
+                {
+                    "id": 6,
+                    "instances": 3,
+                    "groups": 6
+                },
+                {
+                    "id": 7,
+                    "instances": 3,
+                    "groups": 6
+                },
+                {
+                    "id": 8,
+                    "instances": 2,
+                    "groups": 3
+                },
+                {
+                    "id": 9,
+                    "instances": 4,
+                    "groups": 11
+                },
+                {
+                    "id": 10,
+                    "instances": 4,
+                    "groups": 8
+                },
+                {
+                    "id": 11,
+                    "instances": 2,
+                    "groups": 3
+                },
+                {
+                    "id": 12,
+                    "instances": 3,
+                    "groups": 3
+                },
+                {
+                    "id": 13,
+                    "instances": 2,
+                    "groups": 5
+                },
+                {
+                    "id": 14,
+                    "instances": 3,
+                    "groups": 8
+                },
+                {
+                    "id": 15,
+                    "instances": 2,
+                    "groups": 3
+                },
+                {
+                    "id": 16,
+                    "instances": 3,
+                    "groups": 3
+                },
+                {
+                    "id": 17,
+                    "instances": 2,
+                    "groups": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 3,
+                    "groups": 5
+                },
+                {
+                    "id": 19,
+                    "instances": 3,
+                    "groups": 5
+                },
+                {
+                    "id": 20,
+                    "instances": 5,
+                    "groups": 9
+                },
+                {
+                    "id": 21,
+                    "instances": 3,
+                    "groups": 4
+                },
+                {
+                    "id": 22,
+                    "instances": 4,
+                    "groups": 6
+                },
+                {
+                    "id": 23,
+                    "instances": 2,
+                    "groups": 6
+                },
+                {
+                    "id": 24,
+                    "instances": 4,
+                    "groups": 9
+                },
+                {
+                    "id": 25,
+                    "instances": 4,
+                    "groups": 12
+                },
+                {
+                    "id": 26,
+                    "instances": 4,
+                    "groups": 9
+                },
+                {
+                    "id": 27,
+                    "instances": 3,
+                    "groups": 3
+                },
+                {
+                    "id": 28,
+                    "instances": 3,
+                    "groups": 5
+                },
+                {
+                    "id": 29,
+                    "instances": 3,
+                    "groups": 7
+                }
+            ]
+        }
+    ],
+    "friendlyPets": [
+        {
+            "name": "Bloodworm",
+            "id": 41,
+            "guid": 99773,
+            "type": "Pet",
+            "petOwner": 10,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 6
+                },
+                {
+                    "id": 2,
+                    "instances": 11
+                },
+                {
+                    "id": 3,
+                    "instances": 9
+                },
+                {
+                    "id": 4,
+                    "instances": 6
+                },
+                {
+                    "id": 5,
+                    "instances": 9
+                },
+                {
+                    "id": 6,
+                    "instances": 9
+                },
+                {
+                    "id": 7,
+                    "instances": 11
+                },
+                {
+                    "id": 8,
+                    "instances": 7
+                },
+                {
+                    "id": 9,
+                    "instances": 19
+                },
+                {
+                    "id": 10,
+                    "instances": 12
+                },
+                {
+                    "id": 11,
+                    "instances": 2
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 5
+                },
+                {
+                    "id": 14,
+                    "instances": 16
+                },
+                {
+                    "id": 15,
+                    "instances": 4
+                },
+                {
+                    "id": 16,
+                    "instances": 6
+                },
+                {
+                    "id": 17,
+                    "instances": 7
+                },
+                {
+                    "id": 18,
+                    "instances": 11
+                },
+                {
+                    "id": 19,
+                    "instances": 9
+                },
+                {
+                    "id": 20,
+                    "instances": 16
+                },
+                {
+                    "id": 21,
+                    "instances": 6
+                },
+                {
+                    "id": 22,
+                    "instances": 14
+                },
+                {
+                    "id": 23,
+                    "instances": 10
+                },
+                {
+                    "id": 24,
+                    "instances": 13
+                },
+                {
+                    "id": 25,
+                    "instances": 22
+                },
+                {
+                    "id": 26,
+                    "instances": 20
+                },
+                {
+                    "id": 27,
+                    "instances": 10
+                },
+                {
+                    "id": 28,
+                    "instances": 10
+                },
+                {
+                    "id": 29,
+                    "instances": 14
+                }
+            ]
+        },
+        {
+            "name": "Fire Spirit",
+            "id": 38,
+            "guid": 69791,
+            "type": "Pet",
+            "petOwner": 14,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 2
+                },
+                {
+                    "id": 2,
+                    "instances": 2
+                },
+                {
+                    "id": 3,
+                    "instances": 2
+                },
+                {
+                    "id": 4,
+                    "instances": 2
+                },
+                {
+                    "id": 5,
+                    "instances": 3
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 3
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 4
+                },
+                {
+                    "id": 10,
+                    "instances": 3
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 2
+                },
+                {
+                    "id": 14,
+                    "instances": 3
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 3
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 3
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 3
+                },
+                {
+                    "id": 27,
+                    "instances": 2
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Darkglare",
+            "id": 47,
+            "guid": 103673,
+            "type": "Pet",
+            "petOwner": 23,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 2
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Healing Tide Totem",
+            "id": 63,
+            "guid": 59764,
+            "type": "Pet",
+            "petOwner": 6,
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Healing Tide Totem",
+            "id": 49,
+            "guid": 59764,
+            "type": "Pet",
+            "petOwner": 15,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 2
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "ChrisPratt",
+            "id": 20,
+            "guid": 46611512,
+            "type": "Pet",
+            "petOwner": 2,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Efflorescence",
+            "id": 24,
+            "guid": 47649,
+            "type": "Pet",
+            "petOwner": 17,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 3
+                },
+                {
+                    "id": 2,
+                    "instances": 5
+                },
+                {
+                    "id": 3,
+                    "instances": 3
+                },
+                {
+                    "id": 4,
+                    "instances": 4
+                },
+                {
+                    "id": 5,
+                    "instances": 7
+                },
+                {
+                    "id": 6,
+                    "instances": 4
+                },
+                {
+                    "id": 7,
+                    "instances": 7
+                },
+                {
+                    "id": 8,
+                    "instances": 2
+                },
+                {
+                    "id": 9,
+                    "instances": 7
+                },
+                {
+                    "id": 10,
+                    "instances": 7
+                },
+                {
+                    "id": 11,
+                    "instances": 2
+                },
+                {
+                    "id": 12,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 4
+                },
+                {
+                    "id": 14,
+                    "instances": 6
+                },
+                {
+                    "id": 15,
+                    "instances": 2
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 17,
+                    "instances": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 3
+                },
+                {
+                    "id": 19,
+                    "instances": 4
+                },
+                {
+                    "id": 20,
+                    "instances": 8
+                },
+                {
+                    "id": 21,
+                    "instances": 3
+                },
+                {
+                    "id": 22,
+                    "instances": 6
+                },
+                {
+                    "id": 23,
+                    "instances": 5
+                },
+                {
+                    "id": 24,
+                    "instances": 9
+                },
+                {
+                    "id": 25,
+                    "instances": 9
+                },
+                {
+                    "id": 26,
+                    "instances": 8
+                },
+                {
+                    "id": 27,
+                    "instances": 3
+                },
+                {
+                    "id": 28,
+                    "instances": 4
+                },
+                {
+                    "id": 29,
+                    "instances": 7
+                }
+            ]
+        },
+        {
+            "name": "Spirit Link Totem",
+            "id": 68,
+            "guid": 53006,
+            "type": "Pet",
+            "petOwner": 15,
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Spirit Link Totem",
+            "id": 62,
+            "guid": 53006,
+            "type": "Pet",
+            "petOwner": 6,
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Totem",
+            "id": 77,
+            "guid": 61245,
+            "type": "Pet",
+            "petOwner": 15,
+            "fights": [
+                {
+                    "id": 25,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Shadowfiend",
+            "id": 59,
+            "guid": 19668,
+            "type": "Pet",
+            "petOwner": 18,
+            "fights": [
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Guznuk",
+            "id": 25,
+            "guid": 42423402,
+            "type": "Pet",
+            "petOwner": 23,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Water Elemental",
+            "id": 21,
+            "guid": 35606089,
+            "type": "Pet",
+            "petOwner": 9,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Xuen",
+            "id": 32,
+            "guid": 63508,
+            "type": "Pet",
+            "petOwner": 14,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 3
+                },
+                {
+                    "id": 2,
+                    "instances": 2
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 3
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 5
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 6
+                },
+                {
+                    "id": 10,
+                    "instances": 4
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 5
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 17,
+                    "instances": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 3
+                },
+                {
+                    "id": 19,
+                    "instances": 2
+                },
+                {
+                    "id": 20,
+                    "instances": 4
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 5
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 4
+                },
+                {
+                    "id": 25,
+                    "instances": 4
+                },
+                {
+                    "id": 26,
+                    "instances": 6
+                },
+                {
+                    "id": 27,
+                    "instances": 2
+                },
+                {
+                    "id": 28,
+                    "instances": 3
+                },
+                {
+                    "id": 29,
+                    "instances": 6
+                }
+            ]
+        },
+        {
+            "name": "Earthen Wall Totem",
+            "id": 45,
+            "guid": 100943,
+            "type": "Pet",
+            "petOwner": 6,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 2
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 2
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 4
+                },
+                {
+                    "id": 10,
+                    "instances": 3
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 3
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 2
+                },
+                {
+                    "id": 20,
+                    "instances": 3
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 3
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 3
+                },
+                {
+                    "id": 25,
+                    "instances": 4
+                },
+                {
+                    "id": 26,
+                    "instances": 3
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Earthen Wall Totem",
+            "id": 39,
+            "guid": 100943,
+            "type": "Pet",
+            "petOwner": 15,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 2
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 3
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 3
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 4
+                },
+                {
+                    "id": 10,
+                    "instances": 3
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 2
+                },
+                {
+                    "id": 14,
+                    "instances": 3
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 2
+                },
+                {
+                    "id": 19,
+                    "instances": 2
+                },
+                {
+                    "id": 20,
+                    "instances": 3
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 3
+                },
+                {
+                    "id": 25,
+                    "instances": 5
+                },
+                {
+                    "id": 26,
+                    "instances": 3
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Phuufenn",
+            "id": 28,
+            "guid": 47295639,
+            "type": "Pet",
+            "petOwner": 13,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Earth Spirit",
+            "id": 36,
+            "guid": 69792,
+            "type": "Pet",
+            "petOwner": 14,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 2
+                },
+                {
+                    "id": 2,
+                    "instances": 2
+                },
+                {
+                    "id": 3,
+                    "instances": 2
+                },
+                {
+                    "id": 4,
+                    "instances": 2
+                },
+                {
+                    "id": 5,
+                    "instances": 3
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 7,
+                    "instances": 3
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 4
+                },
+                {
+                    "id": 10,
+                    "instances": 3
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 2
+                },
+                {
+                    "id": 14,
+                    "instances": 3
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 3
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 2
+                },
+                {
+                    "id": 24,
+                    "instances": 3
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 3
+                },
+                {
+                    "id": 27,
+                    "instances": 2
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Darkglare",
+            "id": 40,
+            "guid": 103673,
+            "type": "Pet",
+            "petOwner": 13,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 2
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 2
+                },
+                {
+                    "id": 26,
+                    "instances": 2
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Rune Weapon",
+            "id": 30,
+            "guid": 27893,
+            "type": "Pet",
+            "petOwner": 10,
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                },
+                {
+                    "id": 2,
+                    "instances": 1
+                },
+                {
+                    "id": 3,
+                    "instances": 1
+                },
+                {
+                    "id": 4,
+                    "instances": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 7,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 2
+                },
+                {
+                    "id": 10,
+                    "instances": 2
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 2
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 2
+                },
+                {
+                    "id": 25,
+                    "instances": 3
+                },
+                {
+                    "id": 26,
+                    "instances": 2
+                },
+                {
+                    "id": 27,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        }
+    ],
+    "enemyPets": [],
+    "phases": [],
+    "title": "Battle of Dazar'alor",
+    "owner": "STAMORA",
+    "start": 1548815885751,
+    "end": 1548824467261,
+    "zone": 21,
+    "exportedCharacters": [
+        {
+            "id": 32263068,
+            "name": "Ab\u00ffssal",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 18404061,
+            "name": "Aiglos",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 36355218,
+            "name": "Beermuscles",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 36188721,
+            "name": "Blinging",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 22616804,
+            "name": "Booshae",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 37551958,
+            "name": "Daddydave",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 32927290,
+            "name": "Ellach",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 21720482,
+            "name": "Gurbzy",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 38054450,
+            "name": "Isodots",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 30800091,
+            "name": "Kervoros",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 36818635,
+            "name": "Needsahug",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 30800089,
+            "name": "Notchy",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 33640121,
+            "name": "Sepia",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 36401432,
+            "name": "Seps",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 31558572,
+            "name": "Smallfeet",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 17008309,
+            "name": "Stramok",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 37199082,
+            "name": "Tiggy",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 30895397,
+            "name": "Tuxedosam",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 19929785,
+            "name": "Wek",
+            "server": "Thunderhorn",
+            "region": "US"
+        },
+        {
+            "id": 18406552,
+            "name": "Woliaroo",
+            "server": "Thunderhorn",
+            "region": "US"
+        }
+    ]
+}
