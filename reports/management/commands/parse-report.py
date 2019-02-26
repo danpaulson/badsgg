@@ -17,25 +17,31 @@ class Command(BaseCommand):
         reports = []
 
         # Disable this block to view all data
-        boss_override = [
-            2265,  # Champ
-            2266,  # Jadefire
-            2271,  # Opulence
-        ]
+        # boss_override = [
+        #     2265,  # Champ
+        #     2266,  # Jadefire
+        #     2271,  # Opulence
+        #     2268,  # Conclave
+        # ]
+        boss_override = None
+
+        # Killing Blow Ignore List
+        kb_ignore = ["Thief's Bane", "Melee"]
 
         # Process reports
         for report_id in report_ids:
-            reports.append(process_report(report_id, boss_override))
+            reports.append(process_report(report_id, boss_override, kb_ignore))
 
         players = combine_reports(reports)
 
         for name, player in players.items():
             sum_survival = sum(player['average_survival_percentage'])
             length_survival = float(len(player['average_survival_percentage']))
-            print('{0},{1},{2},{3}'.format(
+            print('{0},{1},{2},{3},{4}'.format(
                 player['name'],
                 round(sum_survival / length_survival, 1),
                 player['death_count'],
-                player['brez_count']
+                player['brez_count'],
+                player['hshp_count'],
             ))
 

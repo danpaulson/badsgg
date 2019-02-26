@@ -1,14 +1,14 @@
 import requests
 import json
 
-def process_report(report_id, boss_override=None):
+def process_report(report_id, boss_override=None, kb_ignore=None):
     api_url = 'https://www.warcraftlogs.com/v1/report/'
     api_key = '77c5448016dc5ecf47a9a231d338ba1d'
 
     print('Processing report: https://www.warcraftlogs.com/reports/{0}'.format(report_id))
 
     '''
-    Create Fights and PlayerFights manifest
+    Create Fights manifest
     '''
     # Get Fights data
     fights_url = '{0}fights/{1}?api_key={2}'.format(api_url, report_id, api_key)
@@ -19,12 +19,22 @@ def process_report(report_id, boss_override=None):
     end_time = 0
     fights = {}
     for fight in fights_data['fights']:
+        # Throw out non-bosses
         if fight['boss'] < 1:
             continue
 
-        if fight['boss'] not in boss_override:
-            continue 
+        # Only include certain bosses if directed
+        if boss_override:
+            if fight['boss'] not in boss_override:
+                continue 
 
+        if 'size' not in fight:
+            continue
+
+        if fight['size'] == 5:
+            continue
+
+        # Add Fight data to manifest
         fights[fight['id']] = fight
 
         # Add Fight Time
@@ -33,21 +43,45 @@ def process_report(report_id, boss_override=None):
         # Update End Time
         end_time = fight['end_time']
 
-    # Build Player Fights dict
-    player_fights = {}
+    '''
+    Build Players manifest
+    '''
+    players = {}
     for player in fights_data['friendlies']:
-        if player['name'] not in player_fights:
-            player_fights[player['name']] = []
+        '''
+        Skip NPCs, Players without valid fights, Pets, etc
+        '''
+        # Throw out fight if not in Fights manifest
+        skip = False
 
+        fight_count = 0
         for fight in player['fights']:
-            # Throw out fight if not in fights dict
-            if fight['id'] not in fights:
-                continue
+            if fight['id'] in fights:
+                fight_count += 1
 
-            player_fights[player['name']].append(fight['id'])
+        if not fight_count:
+            skip = True
+
+        # Ignore NPCs and Pets
+        if player['type'] in ['NPC', 'Pet', 'Unknown']:
+            skip = True
+
+        if skip:
+            continue
+
+        # Generate default Player manifest
+        if player['name'] not in players:
+            players[player['name']] = {
+                'name': player['name'],
+                'average_survival_percentage': 100.0,
+                'death_percentages': [],
+                'death_count': 0,
+                'brez_count': 0,
+                'hshp_count': 0,
+            }
 
     '''
-    Fetch Deaths, Create Players Dict
+    Fetch Deaths and calculate deaths
     '''
     # Get Deaths Data
     deaths_url = '{0}tables/deaths/{1}?api_key={2}&end={3}&cutoff=4'.format(
@@ -55,7 +89,6 @@ def process_report(report_id, boss_override=None):
     response = requests.get(deaths_url)
     deaths_data = json.loads(response.content)
 
-    players = {}
     player_multiple_deaths = []
     for death in deaths_data['entries']:
         # Skip deaths not in the fights manifest
@@ -63,19 +96,11 @@ def process_report(report_id, boss_override=None):
             continue
 
         fight = fights[death['fight']]
-        name = death['name']
 
-        if name not in players:
-            players[name] = {
-                'name': name,
-                'average_survival_percentage': 100.0,
-                'death_percentages': [],
-                'death_count': 0,
-                'brez_count': 0,
-            }
+        # Increment Death Count
+        players[death['name']]['death_count'] += 1
 
-        players[name]['death_count'] += 1
-
+        # Skip Multiple Deaths
         '''
         So this block of code is here to ignore secondary deaths. I'm not
         sure if I agree with this, but it matches with WCL's tables so
@@ -86,11 +111,17 @@ def process_report(report_id, boss_override=None):
 
         player_multiple_deaths.append('{0}-{1}'.format(fight['id'], death['id']))
 
+        # Skip Kiling Blow Ignore list
+        if 'killingBlow' in death:
+            if death['killingBlow']['name'] in kb_ignore:
+                continue
+
         # Get death time and add to players dict
         death_time = death['timestamp'] - fight['start_time']
         death_percentage = round(100 * (death_time / fight['time']), 1)
 
-        players[name]['death_percentages'].append(death_percentage)
+        # Append Death Percentages
+        players[death['name']]['death_percentages'].append(death_percentage)
 
     '''
     Calculate Average Survivability
@@ -121,5 +152,22 @@ def process_report(report_id, boss_override=None):
 
         for brez in brez_data['entries']:
             players[brez['name']]['brez_count'] += brez['total']
+
+    '''
+    Calculate Healthstone / Healing Potion usage
+    '''
+    cast_ids = [
+        250870,  # Costal Healing Potion
+        6262,    # Healthstone
+    ]
+
+    for cast_id in cast_ids:
+        url = '{0}tables/casts/{1}?api_key={2}&end={3}&abilityid={4}&by=source'.format(
+            api_url, report_id, api_key, end_time, cast_id)
+        response = requests.get(url)
+        data = json.loads(response.content)
+
+        for entry in data['entries']:
+            players[entry['name']]['hshp_count'] += entry['total']
 
     return players
